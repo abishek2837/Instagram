@@ -1,0 +1,2 @@
+export const GET_ADD_POST_IMAGE = 'GET_ADD_POST_IMAGE';
+export const GET_ALL_POST = 'GET_ALL_POST'
