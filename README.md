@@ -1,2 +1,3 @@
 # Instagram
 it is a mobile application(clone of instagram app) made in react native.
+Here i have added almost all the features of instagram inculding posting photos, videos, liking, commenting, follow, stories etc...
